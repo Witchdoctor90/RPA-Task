@@ -1,0 +1,76 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "AttachmentsList&"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [
+        "TITLE_OFFFSET&"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SendToMeNameCode.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "AttachmentsList&ddb2ac4b-d168-4740-87b2-833141a5f9c1",
+        "ChosenRow&Sequence_25",
+        "AttachmentsList&Sequence_25",
+        "EmailList&Sequence_25"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_resultCode",
+        "out_errors"
+      ],
+      "ConstantsSectionElementsOrder": [
+        "TITLE_OFFFSET&ddb2ac4b-d168-4740-87b2-833141a5f9c1"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EmailAttachmentDownload.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "AttachmentsList&ddb2ac4b-d168-4740-87b2-833141a5f9c1",
+        "EmailList&Sequence_1",
+        "TaskExcel&Sequence_2",
+        "LocalFile&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_errors",
+        "out_attachmentsList"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../AppData/Local/Programs/UiPath/Studio/Snippets/Windows/SnippetsVBasic/Samples/Text/Extract Text Between Labels.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "AttachmentsList&9caac164-1d7f-48f2-84cb-7fb3ce97d233",
+        "inputString&Sequence_1",
+        "labelBefore&Sequence_1",
+        "labelAfter&Sequence_1",
+        "matchVal&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../AppData/Local/Programs/UiPath/Studio/Snippets/Windows/SnippetsVBasic/Samples/Calculator Automation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "AttachmentsList&9caac164-1d7f-48f2-84cb-7fb3ce97d233",
+        "winFolder&Sequence_1",
+        "resultValue&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
